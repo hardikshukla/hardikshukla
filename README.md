@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://images.pexels.com/photos/2882552/pexels-photo-2882552.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-2882552.jpg&fm=jpg" alt="cover" />
+<img width="100%" height = "250px" src="./assests/dev.jpg" alt="hardikshukla" />
 </div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <div size='20px'> Hi my name is Hardik Shukla . Thank You for taking the time to view my GitHub Profile :smile: 
