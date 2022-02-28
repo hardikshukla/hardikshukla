@@ -3,10 +3,10 @@
 </div>
 <div>
 <h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">Hi my name is Hardik Shukla . Thank You for taking the time to view my GitHub Profile :smile: </h3>
-  
+<h3 align="center">I am<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%3e943d&size=20&center=true&vCenter=true&width=600&height=50&lines=HARDIK+SHUKLA;A+Learner;Problem+Solver;Open-Source+Enthusiast" alt="HARDIK SHUKLA" />
+  </div>Thank You for taking the time to view my GitHub Profile :smile:</h3>
   </div>
-  
   <div>
     <h3 align="center">Connect with me:-</h3>
 <p align="center">
@@ -17,7 +17,22 @@
       align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"
       alt="hardikshukla" height="40" width="50" /></a>
   </p>
-  
+  <div align=left>
+        <br>
+        <p>
+            <strong>
+                I am passionate about learning all we and objected-oriented Technologies, Blockchain, Linux, Virtualization, <br>Cloud Computing, and Opensource.
+              &nbsp;
+            </strong>
+        </p>
+    <p align="left">Detailed-oriented, responsible, and committed engineer. Self and quick learner, self-motivated, and social</p>
+        <ul>
+            <li>🌱 <b>I’m currently </b>: learning new technologies and programming skill</li>
+          <li>🎯 <b>I’m currently focusing on</b>: <a href="">AWS certification</a> and <a href="">python</a></li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, 👉 <a href="https://drive.google.com/file/d/1PfHIcew9vlgh0MUw2tEtvCjcZ5En2moO/view?usp=sharing">HERE IS MY RESUME</a>.</li>
+            <li>😄 <b>Fun fact</b>: I ❤️ Coding+Reading+Travelling. 😉</li>
+            </ul>
+    </div>
   </div>
   <br>
   <h3 align="left"></h3>
