@@ -4,8 +4,22 @@
 <div>
 <h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">Hi my name is Hardik Shukla . Thank You for taking the time to view my GitHub Profile :smile: </h3>
+  
   </div>
-<br>
+  
+  <div>
+    <h3 align="center">Connect with me:-</h3>
+<p align="center">
+  <a href="https://github.com/hardikshukla" target="blank"><img 
+      align="center" src="https://www.pinclipart.com/picdir/big/133-1331118_world-wide-web-icon-internet-symbol-clipart.png"
+      alt="hardikshukla" height="38" width="35" /></a>
+  <a href="https://linkedin.com/in/shuklahardik" target="blank"><img 
+      align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"
+      alt="hardikshukla" height="40" width="50" /></a>
+  </p>
+  
+  </div>
+  <br>
   <h3 align="left"></h3>
   <h3>Languages and Tools:-</h3>
 <p align="left"> 
@@ -64,10 +78,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
       alt="python" width="40" height="40" /> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
-      alt="sass" width="40" height="40" /> 
   </a> </p>
 
 <br>
@@ -75,14 +85,4 @@
   <h3>Trophies :-</h3>
   <p align="left"> <a href="https://github.com/hardikshukla/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=hardikshukla" alt="hardikshukla" /></a> </p>
-<div>
-<p align="left">
-  <a href="https://github.com/hardikshukla" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"
-      alt="hardikshukla" height="20" width="30" /></a>
-  <a href="https://linkedin.com/in/shuklahardik" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-      alt="hardikshukla" height="20" width="30" /></a>
-  </p>
-  
-  </div>
+
