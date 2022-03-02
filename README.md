@@ -97,7 +97,3 @@
 
 <br>
 
-  <h3>Trophies :-</h3>
-  <p align="left"> <a href="https://github.com/hardikshukla/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=hardikshukla" alt="hardikshukla" /></a> </p>
-
