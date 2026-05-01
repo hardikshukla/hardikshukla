@@ -109,10 +109,3 @@ If you're building identity infrastructure, working on auth platform problems, o
 
 **[LinkedIn →](https://linkedin.com/in/shuklahardik)** · **[Email →](mailto:hardikshukla96@outlook.com)**
 
----
-
-<div align="center">
-<sub>
-📌 <strong>Pin <code>[resume-builder](https://github.com/hardikshukla/resume-builder)</code> 
-</sub>
-</div>
