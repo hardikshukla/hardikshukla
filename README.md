@@ -113,7 +113,6 @@ If you're building identity infrastructure, working on auth platform problems, o
 
 <div align="center">
 <sub>
-📌 <strong>Pin <code>resume-builder</code> as your top repo.</strong> It's your strongest signal. · 
-🔒 <strong>Populate <code>cybersecurity-labs</code> with actual lab files</strong> before promoting it — an empty repo hurts more than it helps.
+📌 <strong>Pin <code>[resume-builder](https://github.com/hardikshukla/resume-builder)</code> 
 </sub>
 </div>
