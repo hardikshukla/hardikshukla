@@ -1,99 +1,119 @@
 <div align="center">
-<img width="100%" height = "100px" src="./assests/dev.jpg" alt="hardikshukla" />
+
+# Hardik Shukla
+### Identity & IAM Engineer · Backend Security · Platform Engineering
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shuklahardik-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shuklahardik)
+[![Email](https://img.shields.io/badge/Email-hardikshukla96@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:hardikshukla96@outlook.com)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-4285F4?style=flat-square&logo=google)](https://grow.google/certificates/cybersecurity/)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Pursuing_2026-EA0016?style=flat-square&logo=comptia)](https://www.comptia.org/certifications/security)
+
 </div>
-<div>
-<h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">I am<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%3e943d&size=20&center=true&vCenter=true&width=600&height=50&lines=HARDIK+SHUKLA;A+Learner;Problem+Solver;Open-Source+Enthusiast" alt="HARDIK SHUKLA" />
-  </div>Thank You for taking the time to view my GitHub Profile :smile:</h3>
-  </div>
-  <div>
-    <h3 align="center">Connect with me:-</h3>
-<p align="center">
-  <a href="https://github.com/hardikshukla" target="blank"><img 
-      align="center" src="https://www.pinclipart.com/picdir/big/133-1331118_world-wide-web-icon-internet-symbol-clipart.png"
-      alt="hardikshukla" height="38" width="35" /></a>
-  <a href="https://linkedin.com/in/shuklahardik" target="blank"><img 
-      align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"
-      alt="hardikshukla" height="40" width="50" /></a>
-  </p>
-  <div align=left>
-        <br>
-        <p>
-            <strong>
-                I am passionate about learning all we and objected-oriented Technologies, Blockchain, Linux, Virtualization, <br>Cloud Computing, and Opensource.
-              &nbsp;
-            </strong>
-        </p>
-    <p align="left">Detailed-oriented, responsible, and committed engineer. Self and quick learner, self-motivated, and social</p>
-        <ul>
-            <li>🌱 <b>I’m currently </b>: learning new technologies and programming skill</li>
-          <li>🎯 <b>I’m currently focusing on</b>: <a href="">AWS certification</a> and <a href="">python</a></li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, 👉 <a href="https://drive.google.com/file/d/1PfHIcew9vlgh0MUw2tEtvCjcZ5En2moO/view?usp=sharing">HERE IS MY RESUME</a>.</li>
-            <li>😄 <b>Fun fact</b>: I ❤️ Coding+Reading+Travelling. 😉</li>
-            </ul>
-    </div>
-  </div>
-  <br>
-  <h3 align="left"></h3>
-  <h3>Languages and Tools:-</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> 
-  </a> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"
-      alt="Flutter" width="40" height="40" /> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-      alt="java" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-    alt="kotlin" width="40" height="40" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
-  </a> 
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
-      src="https://user-images.githubusercontent.com/19905275/32005874-1b278980-b9c5-11e7-9918-23182a0e884c.png" 
-      alt="visual studio code" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      alt="python" width="40" height="40" /> 
-  </a> </p>
 
-<br>
+---
 
+## About
+
+I'm a software engineer with 3+ years shipping production systems at Intuit — specialising in **identity infrastructure, authentication engineering, and secure API design** at scale.
+
+My core work is IAM: designing GraphQL orchestration layers that serve millions of accounts, hardening cross-platform SSO flows, and building the observability tooling that catches authentication anomalies before they reach users. That work is built on a strong general engineering foundation — microservices, CI/CD pipelines, incident response, and backend systems across multiple product domains.
+
+I'm primarily targeting **Identity Engineering and IAM Platform** roles. I'm also open to strong **backend/general SWE** opportunities where security-aware engineering and production experience at Intuit's scale are valued.
+
+---
+
+## What I've Shipped
+
+| Domain | What I Built | Scale |
+|---|---|---|
+| **Identity Orchestration** | GraphQL layer resolving cross-service identity dependencies, eliminating tight coupling across Intuit's microservice graph | Millions of Intuit accounts |
+| **Authentication Flows** | SSO sign-in for Mailchimp with secure session management and cross-platform auth | Large cross-platform user base |
+| **API Security** | 25–30 GraphQL APIs with input validation, structured error handling, and least-privilege access patterns | Multiple Intuit product domains |
+| **Observability** | Elastic & Amplitude dashboards for golden-signal monitoring of auth flows — adopted as daily tooling by the Identity Bridge team | 10-person team, production |
+| **Incident Response** | Sole on-call contact across multiple rotations; resolved 50–75+ technical incidents/week across 50+ engineering teams | Mission-critical platform |
+| **Deployment Security** | Rollback analysis templates + Jenkins/ArgoCD GitOps pipelines; OpenTelemetry distributed tracing across Core Identity | Full service lifecycle |
+
+---
+
+## Core Competencies
+
+```
+Identity & Access Management (IAM)     GraphQL & REST API Security
+OAuth / OIDC / SSO                     Secure SDLC & Code Review
+Microservices Architecture             Incident Response & Root Cause Analysis
+Observability — Elastic, Splunk        CI/CD — Jenkins, ArgoCD
+Container Security — Docker, K8s       Cloud — AWS, GCP
+```
+
+**Languages:** Kotlin · Java · PHP · Go · Python · GraphQL · SQL
+
+---
+
+## Featured Projects
+
+### 🤖 [resume-builder](https://github.com/hardikshukla/resume-builder)
+An AI-powered resume tailoring tool that transforms your resume to match any job description — using Claude, GPT-4o, or a local Ollama model. One click generates a tailored resume, gap analysis, and cover letter, all downloadable as `.docx`. Built to solve a real problem with a practical multi-LLM architecture.
+
+**What this demonstrates:** LLM API orchestration, multi-provider abstraction, document generation pipelines, and product thinking — shipping something that actually works end-to-end.
+
+`Python` `Claude API` `GPT-4o` `Ollama` `python-docx`
+
+---
+
+### 🛡️ [cybersecurity-labs](https://github.com/hardikshukla/cybersecurity-labs)
+Hands-on labs completed as part of the Google Cybersecurity Professional Certificate — covering password security, network traffic analysis, and vulnerability identification aligned with OWASP principles.
+
+**What this demonstrates:** Foundational security concepts applied in practice — the structured thinking that underpins secure design decisions in production systems.
+
+`Security` `OWASP` `Network Analysis` `Google Cybersecurity Certificate`
+
+---
+
+## Certifications & Learning
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Google Cybersecurity Professional Certificate | Google | ✅ 2026 |
+| CompTIA Security+ | CompTIA | 🔄 Pursuing 2026 |
+| Elements of AI | Reaktor & University of Helsinki | ✅ 2021 |
+| Java & MySQL Developer | Aptech | ✅ |
+
+---
+
+## Where I've Worked
+
+**Persistent Systems → Intuit Inc.** *(Sep 2022 – Feb 2026)*
+Embedded across four Intuit product teams as both Software Engineer and Application Support Engineer:
+- **Core Identity** — Accounts & User Management Orchestration
+- **Mailchimp Identity Bridge** — SSO & cross-platform authentication
+- **QuickBooks Commerce** — Inventory & Order Management APIs
+
+**Fanshawe College** — Technical Support Assistant *(2021)*
+**HnTechno** — Junior Java Developer Intern *(2018–2019)*
+
+---
+
+## Currently
+
+- 🎯 Primary target: **Identity Engineering / IAM Platform** roles
+- 🔧 Also open to: **Backend SWE / General Software Engineering** roles
+- 📖 Completing **CompTIA Security+** (2026)
+- 🔬 Building hands-on depth in **OAuth 2.0, OIDC flows, and token security**
+- 🌐 Open to roles in **Canada (Brampton/Toronto area)** and **remote**
+
+---
+
+## Let's Connect
+
+If you're building identity infrastructure, working on auth platform problems, or just want to talk about IAM — I'm interested.
+
+**[LinkedIn →](https://linkedin.com/in/shuklahardik)** · **[Email →](mailto:hardikshukla96@outlook.com)**
+
+---
+
+<div align="center">
+<sub>
+📌 <strong>Pin <code>resume-builder</code> as your top repo.</strong> It's your strongest signal. · 
+🔒 <strong>Populate <code>cybersecurity-labs</code> with actual lab files</strong> before promoting it — an empty repo hurts more than it helps.
+</sub>
+</div>
