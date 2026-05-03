@@ -14,11 +14,11 @@
 
 ## About
 
-I'm a software engineer with 3+ years shipping production systems at Intuit — specialising in **identity infrastructure, authentication engineering, and secure API design** at scale.
+I'm a software engineer specialising in **identity systems, authentication infrastructure, and secure API design** — with 3+ years shipping production IAM at Intuit, one of the largest consumer finance platforms in North America.
 
-My core work is IAM: designing GraphQL orchestration layers that serve millions of accounts, hardening cross-platform SSO flows, and building the observability tooling that catches authentication anomalies before they reach users. That work is built on a strong general engineering foundation — microservices, CI/CD pipelines, incident response, and backend systems across multiple product domains.
+My work sits at the intersection of backend engineering and security: designing GraphQL orchestration layers that serve millions of accounts, hardening authentication flows across distributed microservices, and building the observability tooling that catches identity anomalies before they reach users.
 
-I'm primarily targeting **Identity Engineering and IAM Platform** roles. I'm also open to strong **backend/general SWE** opportunities where security-aware engineering and production experience at Intuit's scale are valued.
+I'm currently targeting **Identity Engineering, IAM Platform, and Application Security** roles where strong backend foundations and direct experience with real-world identity systems translate to immediate impact.
 
 ---
 
@@ -51,21 +51,17 @@ Container Security — Docker, K8s       Cloud — AWS, GCP
 
 ## Featured Projects
 
+> 📌 *Pinned repos below reflect my focus on identity, security tooling, and backend systems.*
+
 ### 🤖 [resume-builder](https://github.com/hardikshukla/resume-builder)
-An AI-powered resume tailoring tool that transforms your resume to match any job description — using Claude, GPT-4o, or a local Ollama model. One click generates a tailored resume, gap analysis, and cover letter, all downloadable as `.docx`. Built to solve a real problem with a practical multi-LLM architecture.
+AI-powered ATS resume optimizer with multi-provider LLM support (Claude, GPT-4o, Ollama). Generates a tailored resume, keyword gap analysis, and cover letter from any job description. Includes Dropbox sync, browser-side prompt caching, and granular section-level caching — all with zero server-side key storage.
 
-**What this demonstrates:** LLM API orchestration, multi-provider abstraction, document generation pipelines, and product thinking — shipping something that actually works end-to-end.
-
-`Python` `Claude API` `GPT-4o` `Ollama` `python-docx`
+`TypeScript` `Next.js` `Anthropic Claude` `OpenAI` `Dropbox API` `Zod`
 
 ---
 
-### 🛡️ [cybersecurity-labs](https://github.com/hardikshukla/cybersecurity-labs)
-Hands-on labs completed as part of the Google Cybersecurity Professional Certificate — covering password security, network traffic analysis, and vulnerability identification aligned with OWASP principles.
-
-**What this demonstrates:** Foundational security concepts applied in practice — the structured thinking that underpins secure design decisions in production systems.
-
-`Security` `OWASP` `Network Analysis` `Google Cybersecurity Certificate`
+### 🔐 More projects coming soon
+*Currently working on OAuth 2.0 / OIDC tooling and IAM security utilities — will be pinned here when ready.*
 
 ---
 
@@ -95,10 +91,9 @@ Embedded across four Intuit product teams as both Software Engineer and Applicat
 
 ## Currently
 
-- 🎯 Primary target: **Identity Engineering / IAM Platform** roles
-- 🔧 Also open to: **Backend SWE / General Software Engineering** roles
+- 🎯 Targeting **Identity Engineering / IAM Platform / AppSec** roles
 - 📖 Completing **CompTIA Security+** (2026)
-- 🔬 Building hands-on depth in **OAuth 2.0, OIDC flows, and token security**
+- 🔬 Deepening hands-on work in **OAuth 2.0, OIDC flows, and token security**
 - 🌐 Open to roles in **Canada (Brampton/Toronto area)** and **remote**
 
 ---
@@ -109,3 +104,4 @@ If you're building identity infrastructure, working on auth platform problems, o
 
 **[LinkedIn →](https://linkedin.com/in/shuklahardik)** · **[Email →](mailto:hardikshukla96@outlook.com)**
 
+---
