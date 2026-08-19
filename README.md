@@ -14,11 +14,9 @@
 
 ## About
 
-I'm a software engineer specialising in **identity systems, authentication infrastructure, and secure API design** — with 3+ years shipping production IAM at Intuit, one of the largest consumer finance platforms in North America.
+I'm a software engineer specializing in **identity systems, authentication infrastructure, and secure API design** — with 3+ years shipping production IAM at Intuit.
 
 My work sits at the intersection of backend engineering and security: designing GraphQL orchestration layers that serve millions of accounts, hardening authentication flows across distributed microservices, and building the observability tooling that catches identity anomalies before they reach users.
-
-I'm currently targeting **Identity Engineering, IAM Platform, and Application Security** roles where strong backend foundations and direct experience with real-world identity systems translate to immediate impact.
 
 ---
 
@@ -30,20 +28,24 @@ I'm currently targeting **Identity Engineering, IAM Platform, and Application Se
 | **Authentication Flows** | SSO sign-in for Mailchimp with secure session management and cross-platform auth | Large cross-platform user base |
 | **API Security** | 25–30 GraphQL APIs with input validation, structured error handling, and least-privilege access patterns | Multiple Intuit product domains |
 | **Observability** | Elastic & Amplitude dashboards for golden-signal monitoring of auth flows — adopted as daily tooling by the Identity Bridge team | 10-person team, production |
-| **Incident Response** | Sole on-call contact across multiple rotations; resolved 50–75+ technical incidents/week across 50+ engineering teams | Mission-critical platform |
-| **Deployment Security** | Rollback analysis templates + Jenkins/ArgoCD GitOps pipelines; OpenTelemetry distributed tracing across Core Identity | Full service lifecycle |
+| **Incident Response & Runbooks** | Sole on-call engineer across multiple rotations; authored 50+ operational runbooks that converted tribal knowledge into self-serve documentation, reducing escalation volume | Platform reliability across 50+ engineering teams |
+| **Deployment Security** | Rollback analysis templates, Jenkins/ArgoCD GitOps pipelines, and OpenTelemetry distributed tracing across Core Identity | Full service lifecycle |
 
 ---
 
 ## Core Competencies
 
-```
-Identity & Access Management (IAM)     GraphQL & REST API Security
-OAuth / OIDC / SSO                     Secure SDLC & Code Review
-Microservices Architecture             Incident Response & Root Cause Analysis
-Observability — Elastic, Splunk        CI/CD — Jenkins, ArgoCD
-Container Security — Docker, K8s       Cloud — AWS, GCP
-```
+- **Backend Engineering** — Kotlin, Java, Go, PHP
+- **GraphQL & REST API Design**
+- **Distributed Systems & Microservices Architecture**
+- **Authentication & Identity Systems**
+- **Production Incident Response & Root Cause Analysis**
+- **Secure API Design & Code Review**
+- **Observability** — Splunk, Elastic, Amplitude, OpenTelemetry
+- **CI/CD Pipelines** — Jenkins, ArgoCD
+- **Container Orchestration** — Docker, Kubernetes
+- **Cloud Platforms** — AWS, GCP
+- **Security Risk Management** — NIST frameworks, threat detection & vulnerability assessment *(Google Cybersecurity Professional Certificate)*
 
 **Languages:** Kotlin · Java · PHP · Go · Python · GraphQL · SQL
 
@@ -51,12 +53,12 @@ Container Security — Docker, K8s       Cloud — AWS, GCP
 
 ## Featured Projects
 
-> 📌 *Pinned repos below reflect my focus on identity, security tooling, and backend systems.*
+> 📌 *Pinned repos below reflect my focus on security tooling and backend systems.*
 
 ### 🤖 [resume-builder](https://github.com/hardikshukla/resume-builder)
-AI-powered ATS resume optimizer with multi-provider LLM support (Claude, GPT-4o, Ollama). Generates a tailored resume, keyword gap analysis, and cover letter from any job description. Includes Dropbox sync, browser-side prompt caching, and granular section-level caching — all with zero server-side key storage.
+AI-powered ATS resume optimizer built on Claude (Anthropic). Used in production to generate 100+ tailored resume and cover letter pairs during my own job search, cutting per-application tailoring time from ~30–40 minutes to 5–10 minutes. Ships with production-grade security: SSRF mitigation on user-supplied endpoints, per-IP rate limiting, a full security header stack (CSP, HSTS, X-Frame-Options), and zero server-side credential storage.
 
-`TypeScript` `Next.js` `Anthropic Claude` `OpenAI` `Dropbox API` `Zod`
+`TypeScript` `Next.js` `Anthropic Claude` `Dropbox API` `Zod`
 
 ---
 
@@ -72,19 +74,19 @@ AI-powered ATS resume optimizer with multi-provider LLM support (Claude, GPT-4o,
 | Google Cybersecurity Professional Certificate | Google | ✅ 2026 |
 | CompTIA Security+ | CompTIA | 🔄 Pursuing 2026 |
 | Elements of AI | Reaktor & University of Helsinki | ✅ 2021 |
-| Java & MySQL Developer | Aptech | ✅ |
+
+🏅 **High Five Award**, Persistent Systems — recognized for engineering contribution to the QuickBooks Commerce platform.
 
 ---
 
 ## Where I've Worked
 
-**Persistent Systems → Intuit Inc.** *(Sep 2022 – Feb 2026)*
-Embedded across four Intuit product teams as both Software Engineer and Application Support Engineer:
+**Persistent Systems → Intuit Inc.** *(Oct 2022 – Feb 2026)*
+Embedded across three Intuit product teams, holding both the **Software Engineer** and **Software Developer (Application Support & Production Engineering Bridge)** titles:
 - **Core Identity** — Accounts & User Management Orchestration
 - **Mailchimp Identity Bridge** — SSO & cross-platform authentication
 - **QuickBooks Commerce** — Inventory & Order Management APIs
 
-**Fanshawe College** — Technical Support Assistant *(2021)*
 **HnTechno** — Junior Java Developer Intern *(2018–2019)*
 
 ---
@@ -95,6 +97,7 @@ Embedded across four Intuit product teams as both Software Engineer and Applicat
 - 📖 Completing **CompTIA Security+** (2026)
 - 🔬 Deepening hands-on work in **OAuth 2.0, OIDC flows, and token security**
 - 🌐 Open to roles in **Canada (Brampton/Toronto area)** and **remote**
+- 🇨🇦 Authorized to work in Canada — no visa sponsorship required
 
 ---
 
